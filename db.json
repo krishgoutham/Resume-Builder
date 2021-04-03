@@ -1,0 +1,156 @@
+{
+  "resume": [
+    {
+      "name": "jojo",
+      "email": "a@rvt.com",
+      "address": "awda",
+      "experience": [
+        {
+          "id": 614,
+          "company": "wqe",
+          "designation": "qew"
+        }
+      ],
+      "education": [
+        {
+          "id": 720,
+          "degree": "qwe",
+          "institute": "qwe"
+        }
+      ],
+      "skills": [
+        {
+          "id": "JAVA",
+          "text": "JAVA"
+        },
+        {
+          "id": "GRAPHQL",
+          "text": "GRAPHQL"
+        },
+        {
+          "id": "HTML",
+          "text": "HTML"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "lucas",
+      "email": "vesv",
+      "address": "qweqwe",
+      "experience": [
+        {
+          "id": 523,
+          "company": "awd",
+          "designation": "awd"
+        }
+      ],
+      "education": [
+        {
+          "id": 842,
+          "degree": "waad",
+          "institute": "awd"
+        }
+      ],
+      "skills": [
+        {
+          "id": "JAVA",
+          "text": "JAVA"
+        },
+        {
+          "id": "GRAPHQL",
+          "text": "GRAPHQL"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "rachel",
+      "email": "r@awd.com",
+      "address": "velsofme",
+      "experience": [
+        {
+          "id": 416,
+          "company": "awe",
+          "designation": "qwe"
+        }
+      ],
+      "education": [
+        {
+          "id": 986,
+          "degree": "wertgdgd",
+          "institute": "dfbbd"
+        }
+      ],
+      "skills": [
+        {
+          "id": "JAVA",
+          "text": "JAVA"
+        },
+        {
+          "id": "GRAPHQL",
+          "text": "GRAPHQL"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "SQL",
+      "text": "SQL"
+    },
+    {
+      "id": "JAVA",
+      "text": "JAVA"
+    },
+    {
+      "id": "PYTHON",
+      "text": "PYTHON"
+    },
+    {
+      "id": "REACT",
+      "text": "REACT"
+    },
+    {
+      "id": "REACT-NATIVE",
+      "text": "REACT-NATIVE"
+    },
+    {
+      "id": "HTML",
+      "text": "HTML"
+    },
+    {
+      "id": "CSS",
+      "text": "CSS"
+    },
+    {
+      "id": "FLUTTER",
+      "text": "FLUTTER"
+    },
+    {
+      "id": "JAVASCRIPT",
+      "text": "JAVASCRIPT"
+    },
+    {
+      "id": "DJANGO",
+      "text": "DJANGO"
+    },
+    {
+      "id": "LINUX",
+      "text": "LINUX"
+    },
+    {
+      "id": "AWS",
+      "text": "AWS"
+    },
+    {
+      "id": "PHP",
+      "text": "PHP"
+    },
+    {
+      "id": "GRAPHQL",
+      "text": "GRAPHQL"
+    }
+  ]
+}
